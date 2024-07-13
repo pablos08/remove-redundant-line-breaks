@@ -1,0 +1,10 @@
+{
+    "id": "remove-redundant-line-breaks",
+    "name": "Remove Redundant Line Breaks",
+    "version": "1.0.2",
+    "minAppVersion": "0.15.0",
+    "description": "A plugin to remove redundant line breaks in Obsidian notes.",
+    "author": "Pablos",
+    "authorUrl": "https://deepfuture.tech",
+    "isDesktopOnly": false
+}
